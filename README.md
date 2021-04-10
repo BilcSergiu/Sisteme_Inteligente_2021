@@ -25,4 +25,4 @@
   pima.columns=col_names
 - [K-Means](https://www.datacamp.com/community/tutorials/k-means-clustering-python)
 - [KNN](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
-- [SVM](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
+- [SVM](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
