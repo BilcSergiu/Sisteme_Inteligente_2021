@@ -24,3 +24,11 @@
 - [K-Means](https://www.datacamp.com/community/tutorials/k-means-clustering-python)
 - [KNN](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
 - [SVM](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
+
+## Update 22.04
+- [Naive Bayes - example 1](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+- [Naive Bayes - example 2](https://towardsdatascience.com/naive-bayes-classifier-how-to-successfully-use-it-in-python-ecf76a995069)
+- [Decission Trees from scratch in Python](https://towardsdatascience.com/decision-tree-from-scratch-in-python-46e99dfea775)
+- [Performance metrics](https://towardsdatascience.com/a-practical-guide-to-seven-essential-performance-metrics-for-classification-using-scikit-learn-2de0e0a8a040)
+- [Performance metrics - scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
